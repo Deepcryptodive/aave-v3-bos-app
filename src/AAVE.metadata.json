@@ -1,5 +1,5 @@
 {
-  "description": "Aave - Open Source Liquidity Protocol. Built by Cornerstone team: https://github.com/corndao/aave-v3-bos-app",
+  "description": "Aave - Open Source Liquidity Protocol.\n\n Aave is a decentralized non-custodial liquidity protocol where users can participate as depositors or borrowers. Depositors provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralized (perpetually) or undercollateralized (one-block liquidity) fashion.\n\n The AAVE v3 BOS component is built and open sourced by Cornerstone team: https://github.com/corndao/aave-v3-bos-app \n\n ![](https://ipfs.near.social/ipfs/bafkreiaxpkaivtd7ldofxdxdlew5y7pvvrdj24rdubv6ksrzjk7zwgrb2i)",
   "image": {
     "ipfs_cid": "bafkreicmsnivbvp2xd3ewcjb5kybgnbnevbcojhn4mgub7rregnbtqcige"
   },
@@ -8,6 +8,7 @@
     "app": "",
     "defi": "",
     "eth": "",
-    "lending": ""
+    "lending": "",
+    "earn": ""
   }
 }
